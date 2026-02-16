@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/[your-profile-url]([https://www.linkedin.com/in/eniolaoladimeji?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/eniolaoladimeji/)"></a>
+  <a href="https://linkedin.com/in/[your-profile-url](www.linkedin.com/in/eniolaoladimeji)"></a>
   <a href="https://public.tableau.com/app/profile/eniola.oladimeji/vizzes"><img
 src="https://img.shields.io/badge/Tableau-Dashboard_Portfolio-orange?style=for-the-badge&logo=tableau"></a>
   <a href="mailto:eniolaoladimeji03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
