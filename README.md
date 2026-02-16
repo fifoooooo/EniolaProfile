@@ -33,9 +33,9 @@ Outside of data work, I enjoy reading crime thriller and fantasy books, watching
 
 ## 🌱 Currently Learning
 
-- [AWS Cloud (cloud fundamentals + data services)
+- AWS Cloud (cloud fundamentals + data services)
 - Python for data analysis and modeling
-- Data science concepts and workflows]
+- Data science concepts and workflows
 
 
 ## 🛠️ Technical Skillset
