@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/Tableau-Dashboard_Portfolio-orange?style=for-t
   <a href="mailto:eniolaoladimeji03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## 🚀 About Me ?
 
 I’m a Data Analyst working toward becoming a Data Scientist, with a strong foundation in SQL and Excel and growing experience in Python and cloud technologies. I focus on turning raw data into clear, decision-ready insights and building dashboards and reports that people actually use.
 
